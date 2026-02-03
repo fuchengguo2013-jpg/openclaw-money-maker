@@ -1,12 +1,11 @@
-# Money Maker Skill 🧠💰
+# OpenClaw Money Maker 🧠💰
 
-OpenClaw 스킬: airdrop 자동 hunt (Galxe/LayerZero), ClawHub 판매 전략, TTS 콘텐츠.
+Passive token farm 스킬.
 
 ## 설치
-1. 다운로드 money-maker.skill
-2. openclaw skills install money-maker.skill
+openclaw skills install money-maker.skill
 
 ## 후원
-BuyMeCoffee: https://buymeacoffee.com/dongwon (토큰 목표 500만/주)
+https://buymeacoffee.com/dongwon (1주 500만 목표)
 
 ⭐ Star & share!
